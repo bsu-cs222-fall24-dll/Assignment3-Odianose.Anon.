@@ -1,4 +1,4 @@
-package bsu.edu.cs;
+package edu.bsu.cs;
 
 public class SillyMethods {
     public boolean didGuess42(int numGuess) {
